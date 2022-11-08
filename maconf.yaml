@@ -1,0 +1,72 @@
+attributes: {}
+data:
+    description: description
+    files: ''
+    operation: ''
+    properties: ''
+    sequence: []
+    symbol: token__idx__
+    tags: ''
+    title: ''
+height: 200
+layers:
+-   elements:
+    -   image: http://127.0.0.1:4242/api/images/plan_de_travail_(20)_-0x1b43c5d305a03abd.webp?webp
+        name: plan_de_travail_(20)
+    -   image: http://127.0.0.1:4242/api/images/plan_de_travail_(22)_-0x72f9f39c9b2c396a.webp?webp
+        name: plan_de_travail_(22)
+    -   image: http://127.0.0.1:4242/api/images/plan_de_travail_(21)_0x3327fed3ac631abb.webp?webp
+        name: plan_de_travail_(21)
+    indexed: true
+    name: fond
+    params: {}
+    position: 0
+    scale:
+        x: 1
+        y: 1
+    text: ''
+    translation:
+        x: 0
+        y: 0
+    unique: false
+-   elements:
+    -   image: http://127.0.0.1:4242/api/images/graphisme((45)_0x1a318f0d3a1064ae.webp?webp
+        name: graphisme((45)
+    -   image: http://127.0.0.1:4242/api/images/graphisme((44)_-0x5fd88d3f1a4676b4.webp?webp
+        name: graphisme((44)
+    -   image: http://127.0.0.1:4242/api/images/graphisme((47)_0xedc08271f19013b.webp?webp
+        name: graphisme((47)
+    -   image: http://127.0.0.1:4242/api/images/graphisme((46)_0x7338c33b27d5b1ac.webp?webp
+        name: graphisme((46)
+    indexed: true
+    name: image
+    params: {}
+    position: 1
+    scale:
+        x: 1
+        y: 1
+    text: ''
+    translation:
+        x: 0
+        y: 0
+    unique: false
+limit: 10
+location: maconf.yaml
+max_items: 0
+name: maconf
+platform:
+    label: ''
+    value: ''
+quality: 98
+seed: 0
+text:
+    color: '#FFFFFF'
+    font:
+        file: AGENCYB.TTF
+        name: Agency FB
+    fontsize: 12
+    position_text:
+        x: 10
+        y: 10
+    text_to_add: Texte ici
+width: 200
